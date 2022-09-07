@@ -113,8 +113,8 @@ h3{
     }
 
     .grid-container{
-        grid-template-columns: repeat(6, 0.4fr);
-        grid-auto-rows: 0.5fr;
+        grid-template-columns: repeat(6, 12%);
+        grid-auto-rows: 20%;
         gap: 20px;
         justify-content: center;
     }
