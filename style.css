@@ -91,6 +91,14 @@ h3{
     padding-top: 5%;
 }
 
+/* .builder-img{
+    padding-top: 0px;
+}
+
+.builder{
+    padding-top: 10px;
+} */
+
 .attribution{
     padding-top: 20px;
     max-width: 300px;
@@ -113,15 +121,12 @@ h3{
     }
 
     .grid-container{
-        grid-template-columns: repeat(6, 12%);
-        grid-auto-rows: 20%;
+        grid-template-columns: repeat(6, 14%);
+        grid-auto-rows: 24%;
         gap: 20px;
         justify-content: center;
     }
     
-    .grid-item{
-    
-    }
 
     .supervisor{
         grid-area: 2 / 1 / 4 / 3;
